@@ -15,6 +15,16 @@ conda create -n wineq python=3.7 -y
 conda activate base
 ```
 
+# adding the untracked data  into the staging area GIT
+``` bash
+git add .
+```
+
+# First commit
+``` bash
+git commit -m "first commit"
+```
+
 
 
 
