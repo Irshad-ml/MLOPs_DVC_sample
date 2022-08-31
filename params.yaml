@@ -25,4 +25,7 @@ model_dirs : saved_models
 reports:
    params:  report/params.json
    metrics: report/metrics.json
+
+
+webapp_model_dir: prediction_service/model/model.joblib
   
